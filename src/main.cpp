@@ -378,7 +378,7 @@ main(void)
 
 	cout << "Pi = " << dblPI << endl;
 
-	// NON NATIVE DATA TYPES
+	// NON-NATIVE DATA TYPES
 	//----------------------
 
 	// string: array of characters
